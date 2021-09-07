@@ -1,0 +1,2 @@
+# indodax1
+privatekey
